@@ -1,9 +1,9 @@
 <?php
 /*
-*	Bot Name: Public Link Telegram Files
+*   Bot Name: Public Link Telegram Files
 *   Bot Description: Generate public links for your telegram files
 *   Bot Version: 1.0
-*	Bot Url: https://github.com/mohammad425/Public-Link-Telegram-Files
+*   Bot Url: https://github.com/mohammad425/Public-Link-Telegram-Files
 *   Author Name: Mir Mohammad Hosseini
 *   Author Url: https://tasar.ir
 *   Date Created: 2019/01/20
