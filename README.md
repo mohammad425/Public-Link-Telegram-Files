@@ -1,5 +1,12 @@
 # Public Link Telegram Files
 Generate public links for your telegram files and auto remove. ([max size: 20MB](https://core.telegram.org/bots/api#getfile))
+
+![screenshot](http://s8.picofile.com/file/8352143176/Capture.JPG)
+
+## Demo
+
+[@PublicLinkTelegramFilesBot](https://goo.gl/vkk7wu)
+
 ## Installation
 Add your database information, and Telegram API token bot to `includes/settings.php`
 
